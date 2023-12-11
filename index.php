@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sole MatePH</title>
+	<link rel="stylesheet" type="text/css" href="csss.css">
+	<meta name="viewport" content="width=device-width, initial-sclae=1">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+ 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+		
+		<img src="bg.jpg" class="bgjpg" />
+		
+
+		<div class="logoclass">
+			<img src="logo.png" class="logojpg"> 
+		</div>
+
+		<div class="nextbox">
+			<a href="userloginn.php">
+				<div class="nextcolor">
+					Member
+				</div>
+			</a>
+		</div>
+
+		<div class="nextbox">
+			<a href="userloginn.php">
+				<div class="nextcolor">
+					Admin
+				</div>
+			</a>
+		</div>	
+
+		<div class="notyettext">
+			<a href="regis.php"><p class="tetext">Not yet Registered?</p></a>
+		</div>	
+</body>
+</html>

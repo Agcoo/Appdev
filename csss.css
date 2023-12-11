@@ -1,0 +1,268 @@
+@media only screen and (max-width: 600px) {
+  body {
+   	margin: 0;
+   	width: 100%;
+  }
+
+	a{
+		text-decoration: none;
+		color: black;
+	}
+  .bgjpg{
+	 object-fit: cover;
+		opacity: 50%;
+	 width: 100%;
+	 height: 80vh;
+	 position: absolute;
+  }
+
+	.logoclass{
+		width: fit-content;
+	}
+	
+	.logojpg{
+		width: 60vw;
+		height: 60vw;
+		opacity: 100%;
+		position: relative;
+		top: 10vw;
+		left: 17vw;
+	}
+	
+	.nextbox{
+		width: fit-content;
+		position: relative;
+		left: 14vw;
+		top: 10vw;
+	}
+	
+	
+	.nextcolor{
+		background-color: #B8414D;
+		color: black;
+		width: 60vw;
+		padding: 5vw;
+		border: 2px solid black;
+		border-radius: 30px;
+		text-align: center;
+		margin-bottom: 10vw;
+		font-size: 25px;
+	}
+	
+	.tetext{
+		font-size: 20px;
+	}
+	
+	.notyettext{
+		position: relative;
+		width: 100%;
+		text-align: center;
+		top: 10vw;
+	}
+	
+	.username{
+		position: relative;
+		width: 70vw;
+		height: 10vw;
+		border-radius: 30px;
+		border: 2px solid black;
+		text-align: center;
+		left: 13vw;
+		top: 10vw;
+	}
+	
+	.password{
+		position: relative;
+		width: 70vw;
+		height: 10vw;
+		border-radius: 30px;
+		border: 2px solid black;
+		text-align: center;
+		left: 13vw;
+		top: 20vw;		
+	}
+	
+	.logindiv{
+		position: relative;
+		width: fit-content;
+		top: 30vw;
+		left: 15vw;
+	}
+	
+	.logincolor{
+		background-color: white;
+		padding: 3vw;
+		width: 25vw;
+		text-align: center;
+		border: 2px solid black;
+		border-radius: 30px;
+		
+	}
+	
+	.loginbtn{
+		position: relative;
+		width: 32vw;
+		height: 11vw;
+		border: 2px solid black;
+		border-radius: 30px;
+		top: 19vw;
+		left: 50vw;
+		background-color: white;
+	}
+	
+	.bgcolor{
+		background-color: #EFADAD;
+		height:90vh; 
+	}
+	
+	.headerpic{
+		width: fit-content;
+	}
+	
+	.headpng{
+	 width: 100vw;
+	}
+	
+	.fnamecl{
+		position: relative;
+		border: 2px solid black;
+		border-radius: 30px;
+		text-align: center;
+		left: 15vw;
+		width: 35vw;
+		height: 8vw;
+	}
+	
+	.lnamecl{
+		position: relative;
+		border: 2px solid black;
+		border-radius: 30px;
+		text-align: center;
+		left: 15vw;
+		width: 35vw;	
+		height: 8vw;
+	}
+	
+	
+	.emailcl{
+		border: 2px solid black;
+		border-radius: 30px;
+		left: 15vw;
+		text-align: center;
+		position: relative;
+		width: 73vw;
+		height: 8vw;
+		top: 3vw;
+	}
+	
+	.numcl{
+		border: 2px solid black;
+		border-radius: 30px;
+		left: 15vw;
+		text-align: center;
+		position: relative;
+		width: 73vw;
+		height: 8vw;
+		top: 6vw;		
+	}
+	
+	.usernamecl{
+		border: 2px solid black;
+		border-radius: 30px;
+		left: 15vw;
+		text-align: center;
+		position: relative;
+		width: 73vw;
+		height: 8vw;
+		top: 10vw;
+	}
+	
+	.passcl{
+    border: 2px solid black;
+		border-radius: 30px;
+		left: 15vw;
+		text-align: center;
+		position: relative;
+		width: 73vw;
+		height: 8vw;
+		top: 14vw;
+	}
+	
+	.rerepic{
+		width: fit-content;
+	}
+	
+	.rerepng{
+		width: 100vw;
+		top: 20vw;
+		position: relative
+	}
+	
+	.blkcl{
+		position: relative;
+		border: 2px solid black;
+		border-radius: 30px;
+		text-align: center;
+		left: 15vw;
+		width: 35vw;
+		height: 8vw;		
+		top: 23vw;
+	}
+	
+	.stcl{
+		position: relative;
+		border: 2px solid black;
+		border-radius: 30px;
+		text-align: center;
+		left: 15vw;
+		width: 35vw;
+		height: 8vw;		
+		top: 23vw;
+	}
+	
+	.subdcl{
+		position: relative;
+		border: 2px solid black;
+		border-radius: 30px;
+		text-align: center;
+		left: 15vw;
+		width: 35vw;
+		height: 8vw;		
+		top: 26vw;		
+	}
+	
+	.citycl{
+		position: relative;
+		border: 2px solid black;
+		border-radius: 30px;
+		text-align: center;
+		left: 15vw;
+		width: 35vw;
+		height: 8vw;		
+		top: 26vw;		
+	}
+	
+	.regioncl{
+		position: relative;
+		border: 2px solid black;
+		border-radius: 30px;
+		text-align: center;
+		left: 34vw;
+		width: 35vw;
+		height: 8vw;		
+		top: 29vw;			
+	}
+	
+	.regbtn{
+		position: relative;
+		border: 2px solid black;
+		border-radius: 30px;
+		text-align: center;
+		left: 34vw;
+		width: 35vw;
+		height: 10vw;		
+		top: 35vw;
+		background-color: white;
+		
+	}
+}
